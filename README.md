@@ -10,7 +10,7 @@
     Fast and Simple Image Cropper
     <br/>
     <br/>
-    <a href="https://github.com/JaysinhDabhi/https://github.com/JaysinhDabhi/">View Demo</a>
+    <a href="https://lightcrop.vercel.app/">View Demo</a>
     .
     <a href="https://github.com/JaysinhDabhi/https://github.com/JaysinhDabhi//issues">Report Bug</a>
     .
@@ -43,7 +43,7 @@ Maintain a small codebase for ease of maintenance and future updates.
 
 ## Demo
 
-<a href="https://github.com/JaysinhDabhi/https://github.com/JaysinhDabhi/">View Demo</a>
+<a href="https://lightcrop.vercel.app/">View Demo</a>
 
 
 
